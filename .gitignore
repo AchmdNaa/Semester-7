@@ -1,0 +1,15 @@
+# File sistem macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Hasil build .NET
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
